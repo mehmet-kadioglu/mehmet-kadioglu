@@ -4,6 +4,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/mehmet-kadioglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="mailto:mehmetkadioglu7@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+</br>
+<a href="https://www.hackerrank.com/mehmet_kadioglu"><img src="https://img.shields.io/badge/hackerrank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"></a>
+<a href="https://leetcode.com/mkadioglu"><img src="https://img.shields.io/badge/leetcode-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"></a>
 </p>
   
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
