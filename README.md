@@ -2,9 +2,11 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2431452006037644179/534FA2C251A84C17DD2FBCCD7494FDCF4EDF8B0C/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="70%" height="70%"  />
 </div>
 
-<a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Hi%2C+I'm+Mehmet;Full-Stack+Developer." alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=F72427&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Mehmet;Full-Stack+Developer." alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/mehmet-kadioglu">
