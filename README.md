@@ -17,10 +17,6 @@
   <a href="mailto:mehmetkadioglu7@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  </br>
-  <a href="https://leetcode.com/mkadioglu">
-    <img src="https://img.shields.io/badge/leetcode-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge">
-  </a>
 </p>
 
 ---
@@ -52,5 +48,7 @@
 <div align="center">
   
   ![](https://github-readme-streak-stats.herokuapp.com?user=mehmet-kadioglu&theme=dracula&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=512&background=8%2C3B3B3B%2C000000&hide_longest_streak=true)
+  
+  ![](https://leetcode.card.workers.dev/mkadioglu?theme=dark&font=baloo&extension=null)
   
 </div>
