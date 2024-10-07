@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp;
 
-  ![](https://github-readme-stats-murex-two-42.vercel.app/api/top-langs/?username=mehmet-kadioglu&layout=donut&size_weight=0&count_weight=1&hide=batchfile,cmake,makefile,assembly&theme=dracula&langs_count=20&hide_progress=true)
+  ![](https://github-readme-stats-murex-two-42.vercel.app/api/top-langs/?username=mekadi&layout=donut&size_weight=0&count_weight=1&hide=batchfile,cmake,makefile,assembly&theme=dracula&langs_count=20&hide_progress=true)
 </div>
 
 ---
