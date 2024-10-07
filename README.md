@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=F72427&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Mehmet;Full-Stack+Developer." alt="Typing SVG" />
   </a>
   
-  ![](https://komarev.com/ghpvc/?username=mehmet-kadioglu&color=red)
+  ![](https://komarev.com/ghpvc/?username=mekadi&color=red)
 </div>
 
 <p align="center">
@@ -47,7 +47,7 @@
 ### 🔥 &nbsp;Stats :
 <div align="center">
   
-  ![](https://github-readme-streak-stats.herokuapp.com?user=mehmet-kadioglu&theme=dracula&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=512&background=8%2C3B3B3B%2C000000&hide_longest_streak=true)
+  ![](https://github-readme-streak-stats.herokuapp.com?user=mekadi&theme=dracula&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=512&background=8%2C3B3B3B%2C000000&hide_longest_streak=true)
   
   ![](https://leetcode.card.workers.dev/mkadioglu?theme=dark&font=baloo&extension=null)
   
